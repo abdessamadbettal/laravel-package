@@ -8,7 +8,7 @@ class SkeletonCommand extends Command
 {
     public $signature = 'skeleton';
 
-    public $description = 'My command';
+    public $description = 'My command Description';
 
     public function handle(): int
     {
